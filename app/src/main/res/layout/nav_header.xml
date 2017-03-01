@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:id="@+id/nav_acount"
+    android:layout_height="200dp">
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:id="@+id/imageView3"
+        android:layout_weight="1"
+        android:layout_height="140dp"
+        android:scaleType="fitCenter"
+        android:background="#0A4535"
+        app:srcCompat="@drawable/katel"
+        tools:ignore="ContentDescription" />
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_marginLeft="30dp"
+        android:layout_weight="1"
+        tools:ignore="RtlHardcoded"
+        android:layout_height="80dp"
+        android:gravity="center">
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/profile_index_avatar"
+            android:src="@drawable/ic_account_circle_black_24dp"
+            app:civ_border_width="2dp"
+            app:civ_border_color="#424242"
+            android:layout_weight="1"
+            android:layout_height="80dp"
+            tools:ignore="NestedWeights"
+            android:layout_width="110dp" />
+
+        <LinearLayout
+            android:layout_marginLeft="20dp"
+            android:orientation="vertical"
+            android:layout_gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            tools:ignore="RtlHardcoded"
+            android:gravity="center">
+
+            <TextView
+                android:text="Tên người dùng"
+                android:layout_width="match_parent"
+                android:layout_gravity="center"
+                android:layout_height="wrap_content"
+                android:textSize="20sp"
+                android:id="@+id/txt_main_name_user"
+                tools:ignore="HardcodedText,NestedWeights" />
+
+            <TextView
+                android:text="Tên công ty của người đại diện"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="12sp"
+                android:id="@+id/txt_main_name_bus"
+                tools:ignore="HardcodedText" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>
+

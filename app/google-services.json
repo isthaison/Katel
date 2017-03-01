@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "217708685163",
+    "firebase_url": "https://b-katel.firebaseio.com",
+    "project_id": "b-katel",
+    "storage_bucket": "b-katel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217708685163:android:dc92168338a28da5",
+        "android_client_info": {
+          "package_name": "nson.katel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217708685163-8lvdfl2o4np4gqh9tparq74vk005vfqb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "nson.katel",
+            "certificate_hash": "038d12fa619ea382dd77943845277191943d6a76"
+          }
+        },
+        {
+          "client_id": "217708685163-4k3e7nga531d24e1te5hmsm6j3nfc11e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7rXkFToIunFWg5bPQ8TUtbiXzU6hW978"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217708685163-4k3e7nga531d24e1te5hmsm6j3nfc11e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

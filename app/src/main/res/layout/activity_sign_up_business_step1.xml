@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_weight="0.03"
+
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_sign_up_business_step1"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:gravity="center"
+    android:layout_gravity="center"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="nson.katel.SignUpBusinessStep1"
+    android:orientation="vertical"
+    android:weightSum="1">
+
+
+
+
+    <TextView
+        android:text="Hình ảnh đại diện của công ty"
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView6"
+        android:layout_weight="0.03" />
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.03"
+        tools:ignore="InefficientWeight">
+
+        <ImageView
+            app:srcCompat="@drawable/katel"
+            android:background="@drawable/mbackground_imageview"
+            android:id="@+id/imgv_signup_business_step1_avatar"
+            android:layout_weight="1"
+            tools:ignore="ContentDescription,NestedWeights"
+            android:layout_width="wrap_content"
+            android:layout_height="150dp" />
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_height="match_parent"
+            android:layout_width="40dp">
+
+
+            <Button
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:id="@+id/btn_signup_businness_step1_camera"
+                android:background="@drawable/ic_photo_camera_white_24dp"
+                android:backgroundTint="#0A4535"
+                tools:ignore="UnusedAttribute" />
+
+            <Button
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:id="@+id/btn_signup_businness_step1_library"
+                android:background="@drawable/ic_photo_library_white_24dp"
+                android:backgroundTint="#0A4535"
+                tools:ignore="UnusedAttribute" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:text="KARAOKE"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView"
+            android:layout_weight="1"
+            android:layout_width="70dp"
+            tools:ignore="HardcodedText" />
+
+        <Switch
+            android:layout_height="wrap_content"
+            android:id="@+id/switch_signup_business_step1"
+            android:layout_weight="1"
+            android:layout_width="45dp"
+            android:checked="false" />
+
+        <TextView
+            android:text="HOTEL"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView2"
+            android:layout_weight="1"
+            tools:ignore="HardcodedText" />
+
+    </LinearLayout>
+
+    <TextView
+        android:text="Loại hình kinh doanh của bạn: KARAOKE"
+        android:layout_gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/txt_signup_business_step1_info"
+        tools:ignore="HardcodedText" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:ems="10"
+        android:textColor="#212121"
+        android:textColorHint="#757575"
+        android:id="@+id/edt_signup_businnes_step1_name"
+        android:hint="Tên công ty"
+        tools:ignore="HardcodedText" />
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="wrap_content"
+        android:layout_gravity="right"
+        android:layout_height="wrap_content"
+        tools:ignore="RtlHardcoded">
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/btn_signup_businness_step1_next"
+            android:background="@drawable/mbackground_button"
+            tools:ignore="HardcodedText"
+            android:text="Tiếp theo" />
+    </LinearLayout>
+
+</LinearLayout>
+</ScrollView>

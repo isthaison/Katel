@@ -1,0 +1,1229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\GitKatel\Katel\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="D:\GitKatel\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.2.0_fee09c8e3d3f971473254b6012b4dc1371b8ec74\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Katel\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6da05b7498da036b5b37c3beb861cd2060929dcd">
+        <dex dex="D:\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-10.2.0_80583e753b4b2171cabf5c9552fbd198aed5584d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Katel\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.2.0_08329cddc35d6ff9bc1d76a85a7117a09c91229d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Katel\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="D:\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-10.2.0_431de3b60a2fa4d59f75df257c6fd99f7d8d8db1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\GitKatel\Katel\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d08bb32b88df3dbcbe1d498c3c57f020b8c521ec">
+        <dex dex="D:\GitKatel\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-10.2.0_55da49c2509d2098941d643bf20691cece35cd98\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Katel\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="D:\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.2.0_6d26b2408815dbb4c6cfffe33a62a9638fdfd4d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\GitKatel\Katel\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d6951cb416ebf8c66a32b9480808ca247b68344">
+        <dex dex="D:\GitKatel\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-10.2.0_019485272b29cf56ef767cf48954cbe6721b9932\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Katel\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="D:\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.2.0_18a9df6ea7315d20c9e652b537d2a8bd97f14b57\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\GitKatel\Katel\app\build\intermediates\exploded-aar\com.google.firebase\firebase-appindexing\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1fbf3733f36fea63e70373212796e70f9079981f">
+        <dex dex="D:\GitKatel\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-appindexing-10.2.0_db5b26391f99376fcf1e4ae3cc444087a8708884\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\GitKatel\Katel\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a9493f008850469ed3fab9b28658919562882aed">
+        <dex dex="D:\GitKatel\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-10.2.0_491da3366221459499a48e405ee655439aeb1738\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\GitKatel\Katel\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="101393e975eaf36e3ff40b277ee9a019e077afef">
+        <dex dex="D:\GitKatel\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-10.2.0_88755189629f2e37fe314feece1f50ede61dbde9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\GitKatel\Katel\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7d14fe9bd2283b2eb7fcab08458aa0357917e138">
+        <dex dex="D:\GitKatel\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-10.2.0_81fae8676c40ef9bca5e20a983c0d4caf5270f9f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Katel\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="D:\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.2.0_f72ce19e116dca507374e9a1a3eddfb1d82f7eb0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Katel\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c2ed5eec77d47443aa97a970840db7e2f1036a59">
+        <dex dex="D:\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_e0b3b66737eaf329f671075d8ebee47340ca3c51\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Katel\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
+        <dex dex="D:\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-10.2.0_5e9bd1d5beaee3ff4c86804999f5ec9aa9c4035a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Katel\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ddb7fed808f4331174b59428ccfc46b3696c9812">
+        <dex dex="D:\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-10.2.0_bf2c9decd259d7c43e97b628197d2c2cd85f2925\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\GitKatel\Katel\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3f7595ca32e614b454ceb7b7e241bb037a28e86">
+        <dex dex="D:\GitKatel\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-10.2.0_ebeb31c6393afaa2690f0df3ec7741bf4d2d8cbc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\GitKatel\Katel\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="D:\GitKatel\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-24.0.0_7e8ca0f3297f62f27d14362b6325ffc5ff2b8f01\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\GitKatel\Katel\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="423fb69e69759d8b726fa4a4fb6a1ea9fc86d1cd">
+        <dex dex="D:\GitKatel\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-instantapps-10.2.0_e54afa6bc6ff88b6a8bb8da1e3970b735785855e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Katel\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="101393e975eaf36e3ff40b277ee9a019e077afef">
+        <dex dex="D:\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-10.2.0_7dedc97211733a74eee33cde5c6cb98a852ed1e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\GitKatel\Katel\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca82d5800780b1d53f0f9ab43678d8634a34cddc">
+        <dex dex="D:\GitKatel\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-10.2.0_ca5e528465fefc197b82095ef760f23e466a4d11\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Katel\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="74c5a91d6510ad42410e8a047d90d2ea6721a0e0">
+        <dex dex="D:\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-10.2.0_2cf976390225bd093a1878dd96eba86adad9f168\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\GitKatel\Katel\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="D:\GitKatel\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.2.0_5687517347e506ef1315a6d47c284bcac24b4249\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\GitKatel\Katel\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d621c9c3c369a13f6e887b5a5240f128c4658f53">
+        <dex dex="D:\GitKatel\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_e7469f64e6f2580bbca64a7617a01b904954442c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Katel\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d6951cb416ebf8c66a32b9480808ca247b68344">
+        <dex dex="D:\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-10.2.0_3b994026fade4b8ffebbaee617c72f0a89875498\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\GitKatel\Katel\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="90270132a5f1a33584f453c571257dd35e728201">
+        <dex dex="D:\GitKatel\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-10.2.0_824d48a1948ee464092a5187f8792a69c3b3d259\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Katel\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="68485f21eeb5d6c9ed82c445d520b9fc81c87108">
+        <dex dex="D:\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-10.2.0_111f061a0b4dbb1a8a2f30652c46623bcc8c8d1e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Katel\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0e301f24b283f14b564f660c9abe863af6be5896">
+        <dex dex="D:\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-10.2.0_724e1752754a7f43ad38fb4c12c6364385e26a50\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\GitKatel\Katel\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-v4-impl\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8438c64f9eb581429dc592f7c9b3156a3d071653">
+        <dex dex="D:\GitKatel\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-v4-impl-10.2.0_7c67eeec8d71e3743ef224a3c8b64809e41f23bf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\GitKatel\Katel\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ab0c7fe28f9506302eb39adf1ebf5858732e18ec">
+        <dex dex="D:\GitKatel\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-10.2.0_8c04894fd532cac7954b14b6896433e9e1fbd8e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\GitKatel\Katel\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a61e7010aa7be5da53cd1bc5279630510c9a4912">
+        <dex dex="D:\GitKatel\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-10.2.0_7ca936c3f51679fc511adcd567e06bb5d49e1530\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Katel\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="D:\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.2.0_42c7e77a06944517cc27f9d8d0c0592b3431ba1c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Katel\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea03bbfaed89818f233ee9918fac493f2b63895a">
+        <dex dex="D:\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-10.2.0_4ad6f64eb2cbf838d47c0601b67765944038fc96\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nson\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="D:\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_6f6e9fbab470bfabee3361016f96d313659a021c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Katel\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="90270132a5f1a33584f453c571257dd35e728201">
+        <dex dex="D:\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-10.2.0_db1f94384048a261f561d67b0a833052b68c6476\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Katel\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7d14fe9bd2283b2eb7fcab08458aa0357917e138">
+        <dex dex="D:\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-10.2.0_e717167e2e0b7456489ebd2516ee79a363632893\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\GitKatel\Katel\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="D:\GitKatel\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_58ffc7538dabb57d35aefd3271cbe85a13c161b5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\GitKatel\Katel\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="654b294d429b56fd18392f2b68ad79954f431f8e">
+        <dex dex="D:\GitKatel\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-10.2.0_88065aa2c5257621a382a6d8517fd47f638bbd1a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\GitKatel\Katel\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="421a5cebe9ff187c98075c59786e9464c5c67d36">
+        <dex dex="D:\GitKatel\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-10.2.0_3057ed140793e3dca2d37cd212ef24997a3f9a61\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Katel\app\build\intermediates\exploded-aar\com.android.support\design\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="D:\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.2.0_4f0ec187020be21d12e217d0ad9216a752ed212a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Katel\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="D:\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.2.0_861d72fcc5db5696eba56f5eaf53787334e780ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\GitKatel\Katel\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="D:\GitKatel\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-24.0.0_5be3de4627d48b39c70423dcb0ad5cb07c70e6f7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Katel\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="646b2c48e147b943f0a39842457fdc66d501e4b6">
+        <dex dex="D:\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-10.2.0_e6cff1aa0631260d8876a5daa6cdbf864c490e46\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Katel\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="db4aca1c1ec60f2c098d3b6c91cedfb7838f83ed">
+        <dex dex="D:\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-10.2.0_829404538f82032eb3325cafd80b27983ae1c0aa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Katel\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d5cbbbfe040201c7569478b70a13b58fd11aab4">
+        <dex dex="D:\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-10.2.0_3e699edc80f8021f354a637c9b693e325f9a67de\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Katel\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8e1d31656bc9f1889283836e025e6cb703acd38a">
+        <dex dex="D:\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-10.2.0_55afa51b16c176773f0f486e51c9f190d13fcf9a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\GitKatel\Katel\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="857ce7350acf811749c8fd0254d3d39b02aa71f5">
+        <dex dex="D:\GitKatel\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-10.2.0_a66698ca0ec2a23d4c4870cddde59d2842fb2f55\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\GitKatel\Katel\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aa23e4589287adb431ef59d6c78af79ab8885682">
+        <dex dex="D:\GitKatel\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-10.2.0_b2e5047147241cc7e1c26c2ad64ae5fb4dbff7d2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\GitKatel\Katel\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="D:\GitKatel\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.2.0_2b3cca0d98bd1c6f6ad247ec65a41ebf8d471d8a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Katel\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="D:\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.2.0_91f0a8ee261214511fea09854c2d270839887426\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\GitKatel\Katel\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0f58195bee8a08f35e7d4ee7fd4b0479e570e172">
+        <dex dex="D:\GitKatel\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-10.2.0_120a48c870ef7d12382ab23b18d56fc8f2e525d2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Katel\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4ef2d91da513c4d7e773ae438fe04d0e4c135957">
+        <dex dex="D:\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-10.2.0_455f0a6bf563c4fab3090b1bd31f04e1fb0d552a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\GitKatel\Katel\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0e301f24b283f14b564f660c9abe863af6be5896">
+        <dex dex="D:\GitKatel\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-10.2.0_22b392077c54226ea456297c52d42a3774136b99\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Katel\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ce9112e08a027c8620ae693983e38cdbb9f6371b">
+        <dex dex="D:\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-10.2.0_9dcbece1b4def5a5b9eac07c7b46cfe60dbd8a63\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Katel\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="444f9de23145e8caba7bf1c1772acad142ea6013">
+        <dex dex="D:\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-10.2.0_041da28f2c9f1f52008f7040b440631972f9d697\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Katel\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e7157a9577c983651d6c6ee313813424fe2d8ab6">
+        <dex dex="D:\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-10.2.0_6cf2abfebc47ce20f892463f46f9793e5b189531\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Katel\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3aaf1e7b5fe9f4d3ff22c4edc0ead631f7389d30">
+        <dex dex="D:\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-10.2.0_6059f9ac8e322b10dc9e7276c9cf82665cba7876\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Katel\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="857ce7350acf811749c8fd0254d3d39b02aa71f5">
+        <dex dex="D:\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-10.2.0_548aeb98b6834c91c8a4772624d5a220b75ccc28\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Katel\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45e0953544711e0b5a2d227732e88cccb82793bc">
+        <dex dex="D:\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-awareness-10.2.0_a8ee0ded455896ec70a810f71427b03b1fd47a77\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Katel\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94fca868854457ede6df15c902938468c71d579e">
+        <dex dex="D:\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-10.2.0_9165191fe58596355e76047092fea8327edce519\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\GitKatel\Katel\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6da05b7498da036b5b37c3beb861cd2060929dcd">
+        <dex dex="D:\GitKatel\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-10.2.0_5be0a466e749bd27aa8b05ca135db6f8e8480a25\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Katel\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="48532a016bb0dfbe7970c147ce784598a515406b">
+        <dex dex="D:\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-10.2.0_d7454b8ecdc0cf3bb20377e4546675f833ba0445\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\GitKatel\Katel\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="D:\GitKatel\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-10.2.0_f60127fa2d7bc61c8653dbc9e735000fcc419c27\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\GitKatel\Katel\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4ef2d91da513c4d7e773ae438fe04d0e4c135957">
+        <dex dex="D:\GitKatel\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-10.2.0_2c2fc9269463a8917d47b49cc3ee86fe1a7e5337\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Katel\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="421a5cebe9ff187c98075c59786e9464c5c67d36">
+        <dex dex="D:\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-10.2.0_fe39616063c8b4b636887f985b17d8e05e7e709f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\GitKatel\Katel\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
+        <dex dex="D:\GitKatel\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-10.2.0_835a62e17b1ce39d1df9d3fcf08eb2e41912d67c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Katel\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4e01b82d664e1a8253b2b9658e74b5da35c8771d">
+        <dex dex="D:\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-10.2.0_68aa63dbadf0781c6a3fa65e84bd071927bfc8d1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\GitKatel\Katel\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fd2e9eadc9d214966ee7f60d6c5a17a335d7533">
+        <dex dex="D:\GitKatel\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-10.2.0_c0072e114699c8e4e923be887f407aa3f30cd7bb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Katel\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ba054f9000d86c68b8ff6367f3c4a7c04b0e4f40">
+        <dex dex="D:\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_59438eab3a9078657b710ca53a6cf2f1f812602c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\GitKatel\Katel\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\GitKatel\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.2.0_e53fcd073b5b746ab6f5bae8b681b4ba4d0aea06\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Katel\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="D:\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-24.0.0_9c6a01eb3faca3d783cb866707cc0ac75a396872\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Katel\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fd2e9eadc9d214966ee7f60d6c5a17a335d7533">
+        <dex dex="D:\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-10.2.0_19569e7b857aefb41ec9676262dced5d32e66d82\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Katel\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="D:\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_89f8d8711913d7a60b978252fad77868da3bc593\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\GitKatel\Katel\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="D:\GitKatel\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.2.0_64f6028a64746a0a1e4dd8c885ae014e367e741c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\GitKatel\Katel\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="D:\GitKatel\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\de.hdodenhof-circleimageview-2.1.0_1f2b2e904ca3f8d4eeef92d67ba2fcf5e5429ded\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Katel\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9d1d0e1270310e34e2d65afda2bc18605c14cd46">
+        <dex dex="D:\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-10.2.0_40e77159517e6544194af3f5916f4222609f2c1a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Katel\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3f7595ca32e614b454ceb7b7e241bb037a28e86">
+        <dex dex="D:\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-10.2.0_b474d080e4cc1f0b6f79f114b061f0220a498f5f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\GitKatel\Katel\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="444f9de23145e8caba7bf1c1772acad142ea6013">
+        <dex dex="D:\GitKatel\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-10.2.0_4344eae2b489e18c5c4c30e24e6e83e49a85c8d6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\GitKatel\Katel\app\build\intermediates\exploded-aar\com.android.support\design\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="D:\GitKatel\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.2.0_42606eea57f05436327aef8d125d326f27854fbe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\GitKatel\Katel\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3aaf1e7b5fe9f4d3ff22c4edc0ead631f7389d30">
+        <dex dex="D:\GitKatel\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-10.2.0_b1bdaec608bef7d4dccb2996d04aa70478d31e0f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Katel\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="75575883f0348fc5d2be85f23bd10b050095cf17">
+        <dex dex="D:\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-10.2.0_5aeab76dd923b9a00696e43a40bc927f4a4ea49e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\GitKatel\Katel\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1bab75be1918fc9871be4da7afe38d7e4d308303">
+        <dex dex="D:\GitKatel\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-10.2.0_52d5cf1d5272fbeaf9df60b72b8fd73a851eae15\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\GitKatel\Katel\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b831d3902674d096189451d46fce219e2c2904b7">
+        <dex dex="D:\GitKatel\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-10.2.0_e726f661b9ae8c30ef3c4a7211fb77d0e92507f8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\GitKatel\Katel\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1df6d719c4e264d66bb98baa5cb637495b8cca66">
+        <dex dex="D:\GitKatel\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-10.2.0_a5fe99e7ff8951501bb2e37144fbb5c1a0dff64f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\GitKatel\Katel\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e7157a9577c983651d6c6ee313813424fe2d8ab6">
+        <dex dex="D:\GitKatel\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-10.2.0_90482f3b128713ee2a5b95b680347a5eb4c4ce6d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Katel\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="D:\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-24.0.0_13a803a6ce8a6bed7559a12a0a2efef12da3fd2d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\GitKatel\Katel\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="db4aca1c1ec60f2c098d3b6c91cedfb7838f83ed">
+        <dex dex="D:\GitKatel\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-10.2.0_95e9022715620a6dc68f936d9bd8b36d719653ca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\GitKatel\Katel\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4e01b82d664e1a8253b2b9658e74b5da35c8771d">
+        <dex dex="D:\GitKatel\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-10.2.0_fca5f2ee1d89ddac684ae4cf999ba12c0ffa6f76\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\GitKatel\Katel\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d97b3c7dc7951f95d91642517f92619e63c2b77b">
+        <dex dex="D:\GitKatel\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_55f0f46a93a6e5efd0152766f2ce8ca43fcca8cb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\GitKatel\Katel\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="48532a016bb0dfbe7970c147ce784598a515406b">
+        <dex dex="D:\GitKatel\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-10.2.0_4a4e5079a5465119b1d94ba67f13f9a5a2071798\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Katel\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1df6d719c4e264d66bb98baa5cb637495b8cca66">
+        <dex dex="D:\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-10.2.0_57424086fe7bcfe04ebc4397afc3fa282e3ac9db\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\GitKatel\Katel\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="db48dfabe8ecc46681ceca418d6bd61a5339f818">
+        <dex dex="D:\GitKatel\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-10.2.0_ce92822721161735a0143213ba7aea20b2eb5e7e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nson\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="D:\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.2.0_861efd3c492edb30846f444252ec9e62546bd6cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Katel\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="D:\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.2.0_db7417b35562f35c113b6cff00a215d3ec9232ad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\GitKatel\Katel\app\build\intermediates\exploded-aar\com.android.support\transition\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="D:\GitKatel\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.2.0_4887008ad027dbd311c8ef86a1db421314c2da34\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Katel\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0f58195bee8a08f35e7d4ee7fd4b0479e570e172">
+        <dex dex="D:\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-10.2.0_dbe0979c95206834a67e44ee39e84bc47fde47f7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Katel\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="D:\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-10.2.0_7642a01d15c52298462e25ff8194f0e655e379df\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\GitKatel\Katel\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="68485f21eeb5d6c9ed82c445d520b9fc81c87108">
+        <dex dex="D:\GitKatel\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-10.2.0_9d63dbcf133d7bdc16114b5e79b8daa1b61074dd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Katel\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3f4483afd050f3be12db7838422309446a45daa1">
+        <dex dex="D:\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-10.2.0_58da5e669973311e2e41e03de86df6bec80221cb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\GitKatel\Katel\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="74c5a91d6510ad42410e8a047d90d2ea6721a0e0">
+        <dex dex="D:\GitKatel\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-10.2.0_a1108b25a20bf7e635a5c96a79246373b71df022\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\GitKatel\Katel\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="D:\GitKatel\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.2.0_d3c5b9104c1ac7268f6b3f6ff4a4697da9d2f7ca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\GitKatel\Katel\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="D:\GitKatel\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-10.2.0_499202dd9a05c3bcf8a7aa486390da0caf990b6d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Katel\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b831d3902674d096189451d46fce219e2c2904b7">
+        <dex dex="D:\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-10.2.0_8d0629bbc1229f7778537ecf345135461ab2abd9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Katel\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="db48dfabe8ecc46681ceca418d6bd61a5339f818">
+        <dex dex="D:\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-10.2.0_f2e057e50e693f52cc4e1fdac7e6a24192f90509\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\GitKatel\Katel\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3f4483afd050f3be12db7838422309446a45daa1">
+        <dex dex="D:\GitKatel\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-10.2.0_84b5a1467cf75f16481682f23726bcd2874ffb41\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\GitKatel\Katel\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="D:\GitKatel\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.2.0_28a1e36a36ca98ac5c8519af30852cfa435b2c2b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\GitKatel\Katel\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="75575883f0348fc5d2be85f23bd10b050095cf17">
+        <dex dex="D:\GitKatel\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-10.2.0_6ebf161002e10d7d511b067fbd6b215d8e847c1d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Katel\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="D:\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.2.0_f51698eed18d475b3aba9a4d003eea3a20fa62ca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Katel\app\build\intermediates\exploded-aar\com.android.support\transition\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="D:\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.2.0_5c5d231347b6468025e0867d561e181bb293d8da\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\GitKatel\Katel\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="646b2c48e147b943f0a39842457fdc66d501e4b6">
+        <dex dex="D:\GitKatel\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-10.2.0_f9966b4718a245623f56bee36ed44b038a1bb776\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Katel\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1bab75be1918fc9871be4da7afe38d7e4d308303">
+        <dex dex="D:\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-10.2.0_1a022515b48a144e29068fcd56b0592383b75200\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Katel\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aa23e4589287adb431ef59d6c78af79ab8885682">
+        <dex dex="D:\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-10.2.0_66c75a9c1a799a12468a6760ff7a4dcbd8c745dd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\GitKatel\Katel\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9d1d0e1270310e34e2d65afda2bc18605c14cd46">
+        <dex dex="D:\GitKatel\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-10.2.0_25982b7aa2a9358cba450d97fb42d6ece87a04d6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Katel\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="423fb69e69759d8b726fa4a4fb6a1ea9fc86d1cd">
+        <dex dex="D:\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-instantapps-10.2.0_1e0198220973f882b476b1765a72ee331649c58f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\GitKatel\Katel\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="D:\GitKatel\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.2.0_e46afb9ef99e42dcfb81fa82e5c58203a8fd6dff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\GitKatel\Katel\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="D:\GitKatel\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.2.0_b5447d86c13c6e2f20026a2b8a90b5641ee007cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Katel\app\build\intermediates\exploded-aar\com.google.firebase\firebase-appindexing\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1fbf3733f36fea63e70373212796e70f9079981f">
+        <dex dex="D:\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-appindexing-10.2.0_956b18f3d8aa81af67b7fbdc8ede6b651864e823\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\GitKatel\Katel\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45e0953544711e0b5a2d227732e88cccb82793bc">
+        <dex dex="D:\GitKatel\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-awareness-10.2.0_a2b4d333d76a7c18e90930d5b79c706c26fdbbc9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Katel\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="654b294d429b56fd18392f2b68ad79954f431f8e">
+        <dex dex="D:\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-10.2.0_522e3f4af4c32013c9acd99034ece98b77ff2e89\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\GitKatel\Katel\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="D:\GitKatel\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_f876c795898615a1756bea57a6902516315c71bc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\GitKatel\Katel\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8e1d31656bc9f1889283836e025e6cb703acd38a">
+        <dex dex="D:\GitKatel\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-10.2.0_fc259a8cb28a687453590c0fc88f427ce79c8e2c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\GitKatel\Katel\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d5cbbbfe040201c7569478b70a13b58fd11aab4">
+        <dex dex="D:\GitKatel\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-10.2.0_228687d748b110c8a635130a0975865e86841e17\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\GitKatel\Katel\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="D:\GitKatel\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.2.0_df87e7ef767f618e8f15991527e222eeb8ff7970\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Katel\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="D:\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\de.hdodenhof-circleimageview-2.1.0_84b6ff7d1be1b3a292fc0daf02476619d1358617\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Katel\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ab0c7fe28f9506302eb39adf1ebf5858732e18ec">
+        <dex dex="D:\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-10.2.0_e493ce904e9adc910f395186a69f008db51e3119\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\GitKatel\Katel\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea03bbfaed89818f233ee9918fac493f2b63895a">
+        <dex dex="D:\GitKatel\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-10.2.0_11bf7e4c795ad6a142423b91da80da1390786592\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Katel\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d08bb32b88df3dbcbe1d498c3c57f020b8c521ec">
+        <dex dex="D:\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-10.2.0_568476e1c7d543e67638f128c1e54b93ccb56573\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Katel\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="D:\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_9a56df1bb27267bb0b941fae4f7eca4212beef6f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Katel\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="D:\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.2.0_5b03c5e91edd00c5c118b2f961ce923f9269469e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\GitKatel\Katel\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94fca868854457ede6df15c902938468c71d579e">
+        <dex dex="D:\GitKatel\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-10.2.0_49d3b6e7c1f5eaa900960ea5306bc4261ce2acd5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\GitKatel\Katel\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ce9112e08a027c8620ae693983e38cdbb9f6371b">
+        <dex dex="D:\GitKatel\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-10.2.0_fbe50e43f3f55683409af50b5e3fefb80a95b1e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Katel\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-v4-impl\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8438c64f9eb581429dc592f7c9b3156a3d071653">
+        <dex dex="D:\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-v4-impl-10.2.0_b090e16c2bd4367b3dabad430644f9ac00391c2a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Katel\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca82d5800780b1d53f0f9ab43678d8634a34cddc">
+        <dex dex="D:\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-10.2.0_f1ad4b338404afe24e912bb9aec7c293e5c8db17\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\GitKatel\Katel\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ddb7fed808f4331174b59428ccfc46b3696c9812">
+        <dex dex="D:\GitKatel\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-10.2.0_c6c18476f6ff235c2fe04f1974bc0b8d2a01e76a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Katel\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a61e7010aa7be5da53cd1bc5279630510c9a4912">
+        <dex dex="D:\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-10.2.0_e0866e98805686c70bfb2bc9da1c76a76a641aee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Katel\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a9493f008850469ed3fab9b28658919562882aed">
+        <dex dex="D:\Katel\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-10.2.0_04e862a28f1c83b1d7b744c74b1a3cbf98af092c\classes.dex" />
+    </item>
+
+</items>
