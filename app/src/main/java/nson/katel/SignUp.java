@@ -88,7 +88,7 @@ public class SignUp extends AppCompatActivity {
 
         mAnhXa();
         mClick();
-        Show_Select_User();
+        //  Show_Select_Category_User();
 
         mAuth = FirebaseAuth.getInstance();
         storage = FirebaseStorage.getInstance();
@@ -222,6 +222,7 @@ public class SignUp extends AppCompatActivity {
                 .addApi(Auth.GOOGLE_SIGN_IN_API, gso)
                 .build();
 
+
         Intent signInIntent = new Intent( Auth.GoogleSignInApi.getSignInIntent(mGoogleApiClient));
         startActivityForResult(signInIntent, RC_SIGN_IN);
     }
@@ -338,7 +339,7 @@ public class SignUp extends AppCompatActivity {
 
 
                 myProgress.dismiss();
-                Show_Select_User();
+                Show_Select_Category_User();
 
             }
         });
@@ -356,7 +357,7 @@ public class SignUp extends AppCompatActivity {
         else return true;
     }
 
-public  void  Show_Select_User() {
+public  void  Show_Select_Category_User() {
     mDialog = new AlertDialog.Builder(this,R.style.MyDialogTheme)
             .setMessage("Bạn muốn đăng kí kinh doanh với Katel")
             .setPositiveButton("YES",
@@ -375,6 +376,7 @@ public  void  Show_Select_User() {
                         }
                     }).create();
     mDialog.setInverseBackgroundForced(true);
+    mDialog.setCancelable(false);
     mDialog.show();
 }
 }

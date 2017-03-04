@@ -1,40 +1,142 @@
-<ScrollView android:layout_width="match_parent"
+<ScrollView xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
     android:layout_height="match_parent"
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools">
 
-        <LinearLayout
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:orientation="vertical">
+
+        <fragment
+            android:id="@+id/map_signup_step2"
+            android:name="com.google.android.gms.maps.SupportMapFragment"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:orientation="vertical" >
+            android:layout_height="200dp"
+            tools:context="nson.katel.SignUpBusinnessStep2"
+            tools:layout="@layout/activity_maps" />
 
-            <fragment
-                android:id="@+id/map_signup_step2"
-                android:name="com.google.android.gms.maps.SupportMapFragment"
+        <TableLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TableRow
                 android:layout_width="match_parent"
-                tools:context="nson.katel.SignUpBusinnessStep2"
-                android:layout_height="200dp" />
+                android:layout_height="match_parent" >
 
-            <TableLayout
+                <TextView
+                    android:id="@+id/textView7"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="18sp"
+                    android:text="Địa chỉ công ty của bạn trên bản đồ"
+                    tools:ignore="HardcodedText" />
+            </TableRow>
+            <TableRow
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content">
+                android:layout_height="match_parent" >
 
-                <TableRow
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent" />
+                <TextView
+                    android:id="@+id/textView8"
+                    android:layout_width="100dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="10"
+                    android:gravity="right"
+                    android:text="Đường "
+                    tools:ignore="HardcodedText" />
 
-                <TableRow
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent" />
+                <EditText
+                    android:id="@+id/edt_signup2_duong"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:ems="10"
+                    android:hint="Đường"
+                    android:inputType="textPersonName"
+                    tools:ignore="HardcodedText" />
+            </TableRow>
 
-                <TableRow
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent" />
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" >
 
-                <TableRow
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent" />
-            </TableLayout>
+                <TextView
+                    android:layout_width="100dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="10"
+                    android:gravity="right"
+                    android:text="Thành phố:"
+                    tools:ignore="HardcodedText" />
 
-        </LinearLayout>
+                <EditText
+                    android:id="@+id/edt_signup2_thanhpho"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+
+                    android:ems="10"
+                    android:hint="Thành phố"
+                    android:inputType="textPersonName"
+                    tools:ignore="HardcodedText" />
+            </TableRow>
+
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" >
+                <TextView
+                    android:layout_width="100dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="10"
+                    android:gravity="right"
+
+                    android:text="Tỉnh:"
+                    tools:ignore="HardcodedText" />
+
+                <EditText
+                    android:id="@+id/edt_signup2_tinh"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:ems="10"
+                    android:hint="Tỉnh"
+                    android:inputType="textPersonName"
+                    tools:ignore="HardcodedText" />
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" >
+                <TextView
+                    android:layout_width="100dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="10"
+                    android:gravity="right"
+
+                    android:text="Quốc gia:"
+                    tools:ignore="HardcodedText" />
+
+                <EditText
+                    android:id="@+id/edt_signup2_quocgia"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:ems="10"
+                    android:hint="Quốc gia"
+                    android:inputType="textPersonName"
+                    tools:ignore="HardcodedText" />
+            </TableRow>
+            <TableRow
+                android:layout_width="match_parent"
+                android:gravity="right"
+                android:layout_height="match_parent" >
+
+                <Button
+                    android:id="@+id/button2"
+                    android:layout_gravity="right"
+                    android:layout_width="120dp"
+                    android:layout_height="wrap_content"
+                    android:text="Xác nhận" />
+            </TableRow>
+        </TableLayout>
+
+    </LinearLayout>
     </ScrollView>

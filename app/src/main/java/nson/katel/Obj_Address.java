@@ -5,20 +5,20 @@ package nson.katel;
  */
 
 public class Obj_Address {
-   public String duong;
-   public String thanhpho;
-   public String tinh;
-   public String nuoc;
-   public String ma;
+   public String street;//đường
+   public String city;//thành phố
+   public String state;//tỉnh
+   public String country; //quốc gia
+   public String postalCode;// Mã zip
 
     public Obj_Address() {
     }
 
-    public Obj_Address(String duong, String ma, String nuoc, String tinh, String thanhpho) {
-        this.duong = duong;
-        this.ma = ma;
-        this.nuoc = nuoc;
-        this.tinh = tinh;
-        this.thanhpho = thanhpho;
+    public Obj_Address(String street, String postalCode, String country, String state, String thanhpho) {
+        this.street = street;
+        this.postalCode = postalCode;
+        this.country = country;
+        this.state = state;
+        this.city = thanhpho;
     }
 }

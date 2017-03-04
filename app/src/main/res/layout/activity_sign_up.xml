@@ -60,7 +60,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:inputType="textEmailAddress"
-                android:textColor="#FAFAFA"
+                android:textColor="#212121"
                 android:enabled="false"
                 android:textColorHint="#BDBDBD"
                 android:ems="10"
