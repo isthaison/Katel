@@ -88,7 +88,7 @@ public class SignUp extends AppCompatActivity {
 
         mAnhXa();
         mClick();
-        //  Show_Select_Category_User();
+        Show_Select_Category_User();
 
         mAuth = FirebaseAuth.getInstance();
         storage = FirebaseStorage.getInstance();

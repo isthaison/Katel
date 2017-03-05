@@ -45,7 +45,7 @@
                     android:layout_weight="10"
                     android:gravity="right"
                     android:text="Đường "
-                    tools:ignore="HardcodedText" />
+                    tools:ignore="HardcodedText,RtlHardcoded" />
 
                 <EditText
                     android:id="@+id/edt_signup2_duong"
@@ -130,11 +130,12 @@
                 android:layout_height="match_parent" >
 
                 <Button
-                    android:id="@+id/button2"
-                    android:layout_gravity="right"
+                    android:id="@+id/btn_signup2_xacnhan"
                     android:layout_width="120dp"
                     android:layout_height="wrap_content"
-                    android:text="Xác nhận" />
+                    android:layout_gravity="right"
+                    android:text="Xác nhận"
+                    tools:ignore="HardcodedText" />
             </TableRow>
         </TableLayout>
 

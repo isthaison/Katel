@@ -1,12 +1,21 @@
 package nson.katel;
 
+import android.*;
 import android.app.Dialog;
+import android.content.Context;
 import android.content.Intent;
+import android.content.pm.PackageManager;
+import android.location.Address;
+import android.location.Geocoder;
+import android.location.Location;
+import android.location.LocationManager;
 import android.os.Bundle;
 import android.support.annotation.NonNull;
 import android.support.annotation.Nullable;
 import android.support.design.widget.NavigationView;
 import android.support.design.widget.TabLayout;
+import android.support.v4.app.ActivityCompat;
+import android.support.v4.content.ContextCompat;
 import android.support.v4.view.GravityCompat;
 import android.support.v4.view.PagerAdapter;
 import android.support.v4.view.ViewPager;
@@ -41,6 +50,8 @@ import com.google.firebase.database.ValueEventListener;
 import com.squareup.picasso.Picasso;
 
 import java.util.ArrayList;
+import java.util.List;
+import java.util.Locale;
 
 import de.hdodenhof.circleimageview.CircleImageView;
 
@@ -64,6 +75,9 @@ public class Main extends AppCompatActivity
     private DatabaseReference mData;
     private FirebaseAuth mAuth;
     private FirebaseAuth.AuthStateListener mAuthListener;
+
+
+    private static final int MY_REQUEST_LOCATION = 1;
 
 
 
@@ -156,7 +170,7 @@ public class Main extends AppCompatActivity
         navigationView.setNavigationItemSelectedListener(this);
         //..........................................................................................
 
-
+        eventLocationHere();
 
 
     }//////////////////////KẾT THÚC ONCREATE/////////////////////
@@ -326,8 +340,136 @@ public class Main extends AppCompatActivity
             public void onNothingSelected(AdapterView<?> parent) {
             }
         });
-
-
-
     }
+
+
+
+
+    @Override
+    public void onRequestPermissionsResult(int requestCode, @NonNull String[] permissions, @NonNull int[] grantResults) {
+        switch (requestCode){
+            case MY_REQUEST_LOCATION:{
+                if (grantResults.length>0 && grantResults[0]== PackageManager.PERMISSION_GRANTED){
+                    if (ContextCompat.checkSelfPermission(Main.this,
+                            android.Manifest.permission.ACCESS_COARSE_LOCATION)==PackageManager.PERMISSION_GRANTED){
+                        LocationManager locationmanager = (LocationManager) getSystemService(Context.LOCATION_SERVICE);
+                        Location location = locationmanager.getLastKnownLocation(LocationManager.NETWORK_PROVIDER);
+                        try{
+                            String s = getNameCityhere(location.getLatitude(),location.getLongitude());
+                            Toast.makeText(getApplicationContext(),s,Toast.LENGTH_LONG).show();
+                        }catch (Exception e){
+                            e.printStackTrace();
+                            Toast.makeText(getApplicationContext(),"Not thing",Toast.LENGTH_SHORT).show();
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+
+
+
+    public void eventLocationHere(){
+        if (ContextCompat.checkSelfPermission(Main.this,
+                android.Manifest.permission.ACCESS_COARSE_LOCATION)!= PackageManager.PERMISSION_GRANTED){
+            if (ActivityCompat.shouldShowRequestPermissionRationale(Main.this,
+                    android.Manifest.permission.ACCESS_COARSE_LOCATION)){
+                ActivityCompat.requestPermissions(Main.this,
+                        new String[]{android.Manifest.permission.ACCESS_COARSE_LOCATION},MY_REQUEST_LOCATION);
+            }else {
+                ActivityCompat.requestPermissions(Main.this,
+                        new String[]{android.Manifest.permission.ACCESS_COARSE_LOCATION},MY_REQUEST_LOCATION);
+            }
+        }else {
+            LocationManager locationmanager = (LocationManager) getSystemService(Context.LOCATION_SERVICE);
+            Location location = locationmanager.getLastKnownLocation(LocationManager.NETWORK_PROVIDER);
+            try{
+                String s = getNameCityhere(location.getLatitude(),location.getLongitude());
+                Toast.makeText(getApplicationContext(),s,Toast.LENGTH_LONG).show();
+            }catch (Exception e){
+                e.printStackTrace();
+                Toast.makeText(getApplicationContext(),"Not thing",Toast.LENGTH_SHORT).show();
+
+            }
+        }
+    }
+    public String getNameCityhere(Double lat, Double lon){
+        String city ="";
+        Geocoder geocoder = new Geocoder(getApplicationContext(), Locale.US);
+        List<Address> m_address;
+        try {
+            m_address= geocoder.getFromLocation(lat,lon,1);
+            if (m_address.size()>0){
+                Toast.makeText(getApplicationContext(),
+                                m_address.get(0).getLatitude()+"\n"+
+                                m_address.get(0).getLongitude()+"\n"+
+                                m_address.get(0).getCountryName()+"\n"+
+                                m_address.get(0).getAdminArea()+"\n"+
+                                m_address.get(0).getLocality()+"\n"+
+                                m_address.get(0).getFeatureName()+"\n"+
+                                m_address.get(0).getPremises()+"\n"+
+                                m_address.get(0).getSubLocality()+"\n"+
+                                m_address.get(0).getSubThoroughfare()+"\n"+
+                                m_address.get(0).getUrl()+"\n"+
+                                m_address.get(0).getPremises()
+                ,Toast.LENGTH_LONG).show();
+            }
+
+        }catch (Exception e){
+            e.printStackTrace();
+        }
+
+        return  city;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 }

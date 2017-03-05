@@ -25,7 +25,7 @@ public class Login extends AppCompatActivity {
     private ActionBar actionBar;
     private EditText edt_login_id, edt_login_pass;
     private Button btn_login;
-    private  ProgressDialog myProgress;
+    private ProgressDialog myProgress;
 
 
     private FirebaseAuth mAuth;
